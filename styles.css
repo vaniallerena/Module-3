@@ -1,0 +1,44 @@
+body{
+    background: color #f6f6f6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+
+.home{
+    background-image: url(images/sharon-mccutcheon-unsplash.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+}
+.home .content-wrapper{
+    background-color: rgb(255 255 255 / 0.8);
+    padding: 15px;
+}
+footer{
+    background-color: rgb(78, 145, 78);
+    color: #f6f6f6;
+    padding: 10px;
+}
+footer a{
+    color: #f6f6f6;
+}
+footer a:hover{
+    color: yellow;
+}
+img{
+    width: 50%;
+    height: auto;
+}
+#sfu{
+    width: 25%;
+    height: auto;
+}
+a{
+    text-decoration: none;
+    color: rgb(49, 165, 218);
+}
+
+.btn{
+    background-color: rgb(78, 145, 78);
+    color: #f6f6f6;
+    padding: 5px;
+}
